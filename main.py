@@ -155,7 +155,7 @@ def keep_alive():
 # CONFIGURATION
 # ================================
 TOKEN = "8795028783:AAFLuZg1I9DTH1DKZGhPwtcUMiKDLhFApSQ"
-OWNER_ID = 7092472205
+OWNER_ID = 8535388961
 ADMIN_ID = 8535388961
 YOUR_USERNAME = '@Dragon_X_1'
 UPDATE_CHANNEL = 'https://t.me/Dragon_X_111'
